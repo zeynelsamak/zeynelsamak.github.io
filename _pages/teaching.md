@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: the list of units that I have taught.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+### Teaching Assistant ###
+ * Programming in C, [TB1 2018], [TB1 2019]
+ * Image Processing and Computer Vision, [TB1 2019]
+ * Symbols, Patterns and Signals, [TB2 2019], [TB2 2020]
+ * Applied Data Science, [TB2 2020]
+ * Databases, [TB2 2019]

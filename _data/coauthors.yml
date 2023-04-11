@@ -6,6 +6,14 @@
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
+"Mirmehdi":
+  - firstname: ["Majid", "M."]
+    url: http://people.cs.bris.ac.uk/~majid//
+
+"Clatworthy":
+  - firstname: ["Philip", "P."]
+    url: http://www.bris.ac.uk/clinical-sciences/people/231094/overview.html
+
 "Rosen":
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
@@ -32,3 +40,5 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+
