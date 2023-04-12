@@ -94,6 +94,8 @@ bibtex_show={true},
   selected={true},
   poster={ISBI23_poster_357.pdf},
   preview={transop.png},
+  code={https://github.com/zeynelsamak/TranSOP},
+  abstract = {Acute ischaemic stroke, caused by an interruption in blood flow to brain tissue, is a leading cause of disability and mortality worldwide. The selection of patients for the most optimal ischaemic stroke treatment is a crucial step for a successful outcome, as the effect of treatment highly depends on the time to treatment. We propose a transformer-based multimodal network (TranSOP) for a classification approach that employs clinical metadata and imaging information, acquired on hospital admission, to predict the functional outcome of stroke treatment based on the modified Rankin Scale (mRS). This includes a fusion module to efficiently combine 3D non-contrast computed tomography (NCCT) features and clinical information. In comparative experiments using unimodal and multimodal data on the MRCLEAN dataset, we achieve a state-of-the-art AUC score of 0.85.}
 }
 
 @article{samak2022fema,
@@ -106,9 +108,11 @@ year = {2022},
 issn = {0895-6111},
 doi = {10.1016/j.compmedimag.2022.102089},
 url = {https://www.sciencedirect.com/science/article/pii/S0895611122000623},
+html= {https://www.sciencedirect.com/science/article/pii/S0895611122000623},
 author = {Zeynel A. Samak and Philip Clatworthy and Majid Mirmehdi},
 keywords = {Stroke evolution, Follow-up prediction, Treatment outcome, Classification, Prognosis, CNN, Feature similarity, NCCT},
 selected={true},
+code={https://github.com/zeynelsamak/FeMA},
 preview={fema.png},
 abstract = {Although, predicting ischaemic stroke evolution and treatment outcome provide important information one step towards individual treatment planning, classifying functional outcome and modelling the brain tissue evolution remains a challenge due to data complexity and visually subtle changes in the brain. We propose a novel deep learning approach, Feature Matching Auto-encoder (FeMA) that consists of two stages, predicting ischaemic stroke evolution at one week without voxel-wise annotation and predicting ischaemic stroke treatment outcome at 90 days from a baseline scan. In the first stage, we introduce feature similarity and consistency objective, and in the second stage, we show that adding stroke evolution information increase the performance of functional outcome prediction. Comparative experiments demonstrate that our proposed method is more effective to extract representative follow-up features and achieves the best results for functional outcome of stroke treatment.}
 }
@@ -119,14 +123,19 @@ abstract = {Although, predicting ischaemic stroke evolution and treatment outcom
   title={Prediction of Thrombectomy Functional Outcomes using Multimodal Data},
   abstract={Recent randomised clinical trials have shown that while patients with ischaemic stroke benefit from endovascular thrombectomy, determining whether a patient’s circumstance is favourable for the treatment remains a challenge. We propose a novel deep learning approach to directly exploit multimodal data (clinical metadata information and medical imaging, as well as clinical scores obtained from images) to estimate the success of ischaemic stroke treatment. We incorporate an attention mechanism in our architecture to model global feature inter-dependencies, both channel-wise and spatially. We perform comparative experiments using unimodal and multimodal data, and achieve 0.75 AUC in dichotomised mRS scores and 0.35 classification accuracy in individual mRS scores.},
   author={Samak, Zeynel A and Clatworthy, Philip and Mirmehdi, Majid},
-  booktitle={MIUA},
-  year={2020},
+  booktitle="Medical Image Understanding and Analysis",
+  year="2020",
+  publisher={Springer International Publishing},
   organization={BMVA},
+  address="Cham",
+  pages="267--279",
+  isbn="978-3-030-52791-4",
   doi={10.1007/978-3-030-52791-4_21},
   url={https://link.springer.com/chapter/10.1007/978-3-030-52791-4_21},
   html={https://link.springer.com/chapter/10.1007/978-3-030-52791-4_21},
   video={https://www.youtube.com/watch?v=MKhkJZHT4Zw},
   arxiv={2005.13061},
+  code={https://github.com/zeynelsamak/Thrombectomy-Outcome},
   preview={Network-12.jpg},
   selected={true}
   }
