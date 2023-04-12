@@ -10,9 +10,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Thrombectomy | Zeynel Abidin Samak</title>
+    <title>Prediction of Thrombectomy Functional Outcomes using Multimodal Data | Zeynel Abidin Samak</title>
     <meta name="author" content="Zeynel Abidin Samak">
-    <meta name="description" content="Prediction of Thrombectomy Functional Outcomes using Multimodal Data">
+    <meta name="description" content="Zeynel Abidin Samak, PhD, ViLab, University of Bristol
+">
     <meta name="keywords" content="zeynel,samak,abidin, deep,learning,stroke,thrombectomy,medical">
 
 
@@ -31,7 +32,7 @@
     <!-- Styles -->
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://zeynelsamak.github.io//projects/1_project/">
+    <link rel="canonical" href="https://zeynelsamak.github.io//projects/evtoutcome/">
     
     <!-- Dark Mode -->
     
@@ -105,19 +106,47 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Thrombectomy</h1>
-            <p class="post-description">Prediction of Thrombectomy Functional Outcomes using Multimodal Data</p>
+            <h1 class="post-title">Prediction of Thrombectomy Functional Outcomes using Multimodal Data</h1>
+            <p class="post-description"></p>
           </header>
 
           <article>
-            <div class="md-12">
-    <img class="col three left" src="/assets/img/stroke.jpg" alt="" title="stroke evolution">
+            <p><a href="https://zeynelsamak.github.io/">Zeynel Abidin Samak</a><sup>1</sup>, <a href="http://www.bris.ac.uk/clinical-sciences/people/231094/overview.html" rel="external nofollow noopener" target="_blank">Philip Clatworthy</a><sup>2,3</sup> and <a href="http://people.cs.bris.ac.uk/~majid//" rel="external nofollow noopener" target="_blank">Majid Mirmehdi</a><sup>1</sup></p>
+
+<p><sup>1</sup>Dept. of Computer Science, University of Bristol, <sup>2</sup>Translational Health Sciences, University of Bristol, <sup>3</sup>Stroke Neurology, Southmead Hospital, North Bristol NHS Trust, Bristol, UK</p>
+
+<div class="md-12">
+    <img class="col three left" src="/assets/img/miua_network.jpg" alt="" title="stroke evolution">
 </div>
 
+<h2 id="abstract">Abstract</h2>
 <p>Recent randomised clinical trials have shown that while patients with ischaemic stroke benefit from endovascular thrombectomy, determining whether a patient’s circumstance is favourable for the treatment remains a challenge. We propose a novel deep learning approach to directly exploit multimodal data (clinical metadata information and medical imaging, as well as clinical scores obtained from images) to estimate the success of ischaemic stroke treatment. We
 incorporate an attention mechanism in our architecture to model global feature inter-dependencies, both channel-wise and spatially. We perform comparative experiments using unimodal and multimodal data, and achieve 0.75 AUC in dichotomised mRS scores and 0.35 classification accuracy in individual mRS scores.</p>
 
+<h2 id="video">Video</h2>
 <iframe width="800" height="400" src="https://www.youtube.com/embed/MKhkJZHT4Zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2 id="downloads">Downloads</h2>
+<ul>
+  <li>Paper <a href="https://arxiv.org/abs/2005.13061" rel="external nofollow noopener" target="_blank">[arXiv]</a>
+</li>
+  <li>Code  <a href="https://github.com/zeynelsamak/Thrombectomy-Outcome" rel="external nofollow noopener" target="_blank">[GitHub]</a>
+</li>
+</ul>
+
+<h2 id="bibtex">Bibtex</h2>
+<div class="language-latex highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings<span class="p">{</span>samak2020prediction,
+  title=<span class="p">{</span>Prediction of thrombectomy functional outcomes using multimodal data<span class="p">}</span>,
+  author=<span class="p">{</span>Samak, Zeynel A and Clatworthy, Philip and Mirmehdi, Majid<span class="p">}</span>,
+  booktitle=<span class="p">{</span>Medical Image Understanding and Analysis: 24th Annual Conference, MIUA 2020, Oxford, UK, July 15-17, 2020, Proceedings 24<span class="p">}</span>,
+  pages=<span class="p">{</span>267--279<span class="p">}</span>,
+  year=<span class="p">{</span>2020<span class="p">}</span>,
+  organization=<span class="p">{</span>Springer<span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>The authors would like to thank the MR CLEAN Registry team: Prof Aad van der Lugt, Prof Diederik W.J. Dippel, Prof. Charles B.L.M. Majoie, Prof. Wim H. van Zwam and Prof. Robert J. van Oostenbrugge for providing the data. Zeynel Samak gratefully acknowledges funding from Ministry of Education (1416/YLSY), the Republic of Turkey. The Titan V used for this research was donated by the NVIDIA Corporation.</p>
 
 <!-- <div class="md-12">
 <h3>Related Publications</h3>

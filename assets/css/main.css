@@ -115,6 +115,10 @@ strong {
   color: var(--global-text-color);
 }
 
+h2, h3, h4 {
+  color: #dc3545;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
