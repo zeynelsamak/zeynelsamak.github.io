@@ -21,7 +21,7 @@ Recent randomised clinical trials have shown that while patients with ischaemic 
 incorporate an attention mechanism in our architecture to model global feature inter-dependencies, both channel-wise and spatially. We perform comparative experiments using unimodal and multimodal data, and achieve 0.75 AUC in dichotomised mRS scores and 0.35 classification accuracy in individual mRS scores.
 
 ## Video
-<iframe width="800" height="400" src="https://www.youtube.com/embed/MKhkJZHT4Zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="770" height="400" src="https://www.youtube.com/embed/MKhkJZHT4Zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Downloads
 *   Paper [\[arXiv\]](https://arxiv.org/abs/2005.13061)
