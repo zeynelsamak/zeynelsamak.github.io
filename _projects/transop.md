@@ -24,16 +24,18 @@ Acute ischaemic stroke, caused by an interruption in blood flow to brain tissue,
 <embed src="/assets/pdf/ISBI23_poster_357.pdf" width="770" height="400"  type="application/pdf"> 
 
 ## Downloads
-*   Paper [\[arXiv\]](https://arxiv.org/abs/2301.10829)
+*   Paper [\[IEE\]](https://ieeexplore.ieee.org/document/10230576)
 *   Code  [\[GitHub\]](https://github.com/zeynelsamak/TranSOP/)
 
 ## Bibtex
 ```latex
 @inproceedings{samak2023transop,
   title={TranSOP: Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction},
-  author={Samak, Zeynel A and Clatworthy, Philip L and Mirmehdi, Majid},
-  booktitle={20th IEEE International Symposium on Biomedical Imaging, ISBI 2023},
+  author={Samak, Zeynel A. and Clatworthy, Philip and Mirmehdi, Majid},
+  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)}, 
   year={2023},
+  pages={1-5},
+  doi={10.1109/ISBI53787.2023.10230576},
   organization={IEEE Computer Society}
 }
 ```

@@ -7,6 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+### Lecturer ###
+
+ | UNIT  |  TERM |
+ |--------------------------------------------------|---------------------------------------|
+ | EEM109 - Algoritma ve Bilgisayar Programlama I |  [TB1 2023/2024] | 
+ | EEM393 -	Nesneye Yönelik Yazılım |  [TB1 2023/2024] | 
+
+<br />
+
 ### Teaching Assistant ###
 
  | UNIT  |  TERM |
