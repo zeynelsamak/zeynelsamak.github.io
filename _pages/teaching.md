@@ -20,30 +20,42 @@ nav_order: 5
 
 ### Courses Taught at Adiyaman University
 
+---
+
 - #### BIL101 - Algoritma ve Programlama I
   - **Term:** Fall 2024/2025
   - **Description:** Introduction to algorithms and programming concepts using C/C++ programming languages.
   - **Department:** Computer Engineering
+
+---
 
 - #### BIL209 - Mesleki İngilizce
   - **Term:** Fall 2024/2025
   - **Description:** Professional English language skills tailored for computer engineering students.
   - **Department:** Computer Engineering
 
+---
+
 - #### BIL104 - Bilgisayar Donanımı
   - **Term:** Spring 2023/2024
   - **Description:** Study of computer hardware components and their functions.
   - **Department:** Computer Engineering
+
+---
 
 - #### EEM109 - Algoritma ve Bilgisayar Programlama I
   - **Term:** Fall 2023/2024
   - **Description:** Introduction to algorithms and computer programming for electrical and electronics engineering students.
   - **Department:** Electrical and Electronics Engineering
 
+---
+
 - #### EEM393 - Nesneye Yönelik Yazılım
   - **Term:** Fall 2023/2024
   - **Description:** Object-oriented software development principles and practices.
    - **Department:** Electrical and Electronics Engineering
+
+---
 
 <br />
 
