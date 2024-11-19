@@ -213,17 +213,36 @@ keep_files:
   - .git
 
 # Plug-ins
+# plugins:
+#   - jekyll-archives
+#   - jekyll-email-protect
+#   - jekyll-feed
+#   - jekyll-imagemagick
+#   - jekyll-minifier
+#   - jekyll-paginate-v2
+#   - jekyll/scholar
+#   - jekyll-sitemap
+#   - jekyll-link-attributes
+#   - jekyll-twitter-plugin
+#   - jemoji
+#   - jekyll-redirect-from
+
+
 plugins:
   - jekyll-archives
-  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
+  - jekyll-get-json
   - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-link-attributes
+  - jekyll-tabs
+  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
