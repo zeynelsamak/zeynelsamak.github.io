@@ -9,13 +9,13 @@ nav_order: 5
 
 ### Lecturer ###
 
- | UNIT  |  TERM |
- |--------------------------------------------------|---------------------------------------|
- | BIL101 - Algoritma ve  Programlama I |  [TB1 2024/2025] | 
- | BIL209 -	Mesleki İngilizce |  [TB1 2024/2025] | 
- | BIL104 - Bilgisayar Donanımı |  [TB2 2023/2024] | 
- | EEM109 - Algoritma ve Bilgisayar Programlama I |  [TB1 2023/2024] | 
- | EEM393 -	Nesneye Yönelik Yazılım |  [TB1 2023/2024] | 
+ |UNIT Code | UNIT Name |  TERM |
+ |-----------|---------------------------------------------|---------------------------------------|
+ | BIL101 | Algoritma ve  Programlama I |  [TB1 2024/2025] | 
+ | BIL209 |	Mesleki İngilizce |  [TB1 2024/2025] | 
+ | BIL104 | Bilgisayar Donanımı |  [TB2 2023/2024] | 
+ | EEM109 | Algoritma ve Bilgisayar Programlama I |  [TB1 2023/2024] | 
+ | EEM393 |	Nesneye Yönelik Yazılım |  [TB1 2023/2024] | 
 
 <br />
 
