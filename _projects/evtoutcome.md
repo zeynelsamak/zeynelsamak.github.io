@@ -3,7 +3,7 @@ layout: page
 title: Prediction of Thrombectomy Functional Outcomes using Multimodal Data
 description:
 img: assets/img/stroke.jpg
-importance: 2
+importance: 1
 category: stroke
 refs: [samak]
 ---

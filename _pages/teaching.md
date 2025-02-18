@@ -22,6 +22,27 @@ nav_order: 5
 
 ---
 
+- #### BIL350 - Medikal Görüntü İşleme
+  - **Term:** Spring 2024/2025
+  - **Description:** Introducing medical imaging techniques and analysing them for various healthcare applications.
+  - **Department:** Computer Engineering
+
+---
+
+- #### BIL102 - Algoritma ve Programlama II
+  - **Term:** Spring 2024/2025
+  - **Description:** Introduction to algorithms and programming concepts using C/C++ programming languages.
+  - **Department:** Computer Engineering
+
+---
+
+- #### BIL208 - Mesleki İngilizce
+  - **Term:** Spring 2024/2025
+  - **Description:** Professional English language skills tailored for computer engineering students.
+  - **Department:** Computer Engineering
+
+---
+
 - #### BIL101 - Algoritma ve Programlama I
   - **Term:** Fall 2024/2025
   - **Description:** Introduction to algorithms and programming concepts using C/C++ programming languages.

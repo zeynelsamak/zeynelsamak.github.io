@@ -3,7 +3,7 @@ layout: page
 title: TranSOP&#58; Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction
 description:
 img: /assets/img/publication_preview/transop.png
-importance: 2
+importance: 3
 category: stroke
 refs: [samak]
 ---
